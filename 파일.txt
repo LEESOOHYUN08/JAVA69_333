@@ -1,0 +1,11 @@
+C:\kosmo05-teacher>
+192.168.0.244
+
+8/11
+Student
+Deptmanager
+Pride
+DeptApp
+DBConnectionMgr
+DeptVOsimulation
+ObjectArray
